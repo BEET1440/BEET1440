@@ -17,7 +17,7 @@
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,firebase,html,css,git,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=go,python,javascript,react,nodejs,firebase,html,css,git,linux,vscode"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BEET1440&color=blue)
